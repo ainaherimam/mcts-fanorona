@@ -45,7 +45,7 @@ Ensure you have the following installed:
 
 ## 🛠️ To do
 -  simulate AI vs. AI matches
--  Optimize the code for more simulation
+-  Optimize the code for more simulations
 ---
 
 ## 📂 Repository Structure
