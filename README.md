@@ -38,9 +38,9 @@ Ensure you have the following installed:
    cd Fanorona-MCTS
    ```
 2. Run the game
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 ---
 
