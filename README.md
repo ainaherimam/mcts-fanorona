@@ -1,6 +1,7 @@
 # Fanorona with MCTS
 
-Welcome to **Fanorona with MCTS**, a project that implements the Monte Carlo Tree Search (MCTS) algorithm for the traditional board game of [Fanorona](https://en.wikipedia.org/wiki/Fanorona).
+ A project that implements the Monte Carlo Tree Search (MCTS) algorithm for the traditional board game of [Fanorona](https://en.wikipedia.org/wiki/Fanorona).
+
 ---
 
 ## 📖 About Fanorona
