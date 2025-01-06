@@ -13,15 +13,14 @@ Fanorona is a centuries-old strategy board game originating from Madagascar. It 
 ## 🎯 Project
 - Implement a simple interface for 
 - Implement the **Monte Carlo Tree Search (MCTS)** algorithm to play Fanorona.
-- Develop an AI capable of making intelligent, adaptive decisions.
+- Develop an algorithm capable of making intelligent, adaptive decisions.
 
 ---
 
 ## 🚀 Features
 - **Fanorona Game Logic**: The game board is represented programmatically, supporting all valid moves and captures.
 - **MCTS Algorithm**: To calculate optimal moves.
-
-- **Interactive Gameplay**: Play against the AI (simulate AI vs. AI matches)
+- **Interactive Gameplay**: Play against the AI
 
 ---
 
@@ -45,19 +44,15 @@ Ensure you have the following installed:
 ---
 
 ## 🛠️ To do
-
+-  simulate AI vs. AI matches
+-  Optimize the code for more simulation
 ---
 
 ## 📂 Repository Structure
 ```
-Fanorona-MCTS/
-├── docs/                 # Documentation files
-├── src/                  # Source code
-│   ├── board.py          # Fanorona board and rules
-│   ├── mcts.py           # MCTS implementation
-│   └── main.py           # Entry point for the game
-├── tests/                # Unit tests
-├── requirements.txt      # Python dependencies
+mcts-fanorona/
+├── mcts.py               # MCTS implementation
+├── fanorona.py           # Fanorona implementation
 └── README.md             # Project documentation
 ```
 
@@ -67,5 +62,5 @@ Fanorona-MCTS/
 - Inspired by the board game [Fanorona](https://en.wikipedia.org/wiki/Fanorona))  
 - Thanks to [maksimKorzh](https://github.com/maksimKorzh/) for the help on the MCTS part.
 
-Enjoy playing and exploring the strategies of Fanorona with AI!
+Enjoy playing and exploring the strategies of Fanorona!
 
