@@ -35,7 +35,7 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/ainaherimam/mcts-fanorona.git
-   cd Fanorona-MCTS
+   cd mcts-fanorona
    ```
 2. Run the game
    ```bash
