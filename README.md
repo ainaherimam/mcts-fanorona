@@ -2,7 +2,7 @@
 
 Welcome to **Fanorona with MCTS**, a project that implements the Monte Carlo Tree Search (MCTS) algorithm for the traditional board game of [Fanorona](https://en.wikipedia.org/wiki/Fanorona).
 ---
-![[Fanorona Board](https://fr.wikipedia.org/wiki/Fanorona#/media/Fichier:Fanorona-1.svg)
+
 ## 📖 About Fanorona
 Fanorona is a centuries-old strategy board game originating from Madagascar. It is played on a 9x5 grid (fanorona 9) or a 5x5 grid (fanorona 5)  and challenges players to capture their opponent's pieces using a variety of strategic moves. The game is renowned for its depth and complexity, making it an excellent candidate for AI research.
 ---
